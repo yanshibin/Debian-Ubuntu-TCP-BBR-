@@ -1,6 +1,6 @@
 # 下载地址
 ```
-wget --no-check-certificate -qO 'BBR.sh' 'https://moeclub.org/attachment/LinuxShell/BBR.sh' && chmod a+x BBR.sh
+wget --no-check-certificate -qO 'BBR.sh' 'https://raw.githubusercontent.com/yanshibin/Debian-Ubuntu-TCP-BBR-/master/BBR.sh' && chmod a+x BBR.sh
 ```
 ## 使用方法:
 普通模式,最后需要按下回车才会重启.
